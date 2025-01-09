@@ -1,0 +1,103 @@
+.heading-section{
+    background-image: url("images/Banner\ Image.png");
+width: 1320px;
+height: 600px;
+margin: 0 auto;
+}
+
+.x1{
+     color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+line-height: 40px;
+text-align: center;
+}
+.x2,.x3{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+letter-spacing: 0%;
+text-align: center;
+}
+.discount{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+   font-weight: 700;
+   font-size: 88px;
+   text-align: center;
+}
+.discount-sub-title{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+}
+.catagories{
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.new-year{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+.mid-night{
+    background-image: url("images/Vectorrr.png");
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    
+    align-items: center;
+}
+.Welcome{
+color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 11%;
+text-align: left;
+padding-left: 126px ;
+}
+.welcome1{
+    padding-top: 126px ;
+}
+.description{
+    color: rgba(255, 255, 255, 0.8);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+padding-left: 126px ;
+width: 697px;
+height: 60px;
+}
+.join{
+    padding-left: 126px;
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+padding-top: 30px;
+}
